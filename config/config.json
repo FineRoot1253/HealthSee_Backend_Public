@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "0428",
+    "database": "healthy",
+    "host": "192.168.0.4",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "0428",
+    "database": "healthy",
+    "host": "192.168.0.4",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "0428",
+    "database": "healthy",
+    "host": "192.168.0.4",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
